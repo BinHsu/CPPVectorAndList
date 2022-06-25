@@ -1,5 +1,5 @@
 # CPPVectorAndList
-Compare insert performance between std::vector and std::list
+Compare performance between std::vector and std::list
 
 ## compared sorted insert
 1. Original std:: list did not support random access
